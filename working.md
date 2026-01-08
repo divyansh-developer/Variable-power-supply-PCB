@@ -1,1 +1,0 @@
-The device operates with a 6P Type-C USB port to efficiently input current. It uses an MT3608 to effectively boost a low input voltage, while a 10k potentiometer allows for precise output fine-tuning. A series of capacitors are incorporated to stabilize the voltage, which is then directed to the screw terminals, ensuring it is ready for immediate use
